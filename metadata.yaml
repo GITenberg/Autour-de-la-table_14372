@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/851
     wikipedia: http://en.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14372#Autour-de-la-table
 gutenberg_bookshelf: FR Presse
 gutenberg_issued: '2004-12-17'
 gutenberg_type: Text
